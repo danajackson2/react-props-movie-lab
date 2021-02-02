@@ -7,7 +7,7 @@ const movieData = [
   },
   {
     title: 'Choux and Maru',
-    IMDBRating: 4,
+    IMDBRating: 3,
     genres: ['cats', 'drama', 'romance'],
     poster: 'choux-maru-part-1'
   },
